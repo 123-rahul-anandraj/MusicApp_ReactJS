@@ -1,0 +1,6 @@
+App.js ==> main react js file to be compiled
+
+components
+  '-> MusicPlayer.js
+  '-> MusicDetail.js => Name of song and artist
+  '-> AudioController.js => Go to previous song, next song and pause/stop the song. Add icons for 3 of them and thier functionalities
