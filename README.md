@@ -1,6 +1,7 @@
 # Minor-Project Name: Music Player using React JS
 It is a music-player application by using React JS.\
-Developed for my minor-project assignment in "Internet Programming". 
+Developed for my minor-project assignment in "Internet Programming".\
+![GitHub Logo](/Demo_Pic_MusicApp.jpg)
 
 # Getting Started with Create React App
 
